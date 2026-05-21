@@ -1,1 +1,1 @@
-Proyecto final Luis Pardo B2
+Proyecto final de Luis Pardo 
