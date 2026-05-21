@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>2026051918144105RDE2</value>
+    <value>202605211935374J8EM2</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260519181441URJGGF</value>
+    <value>202605211935377LUPFO</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1779207223908</value>
+    <value>1779383514230</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,7 +93,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4g-xprjbz7sv</odePageId>
+  <odePageId>page-mpfr02jr-ka6qeu390</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Presentación del proyecto</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -129,7 +129,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4g-xprjbz7sv</odePageId>
+      <odePageId>page-mpfr02jr-ka6qeu390</odePageId>
       <odeBlockId>block-1778174225483-w4jrjuhkl</odeBlockId>
       <blockName>Datos clave del proyecto</blockName>
       <iconName>present</iconName>
@@ -158,7 +158,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4g-xprjbz7sv</odePageId>
+          <odePageId>page-mpfr02jr-ka6qeu390</odePageId>
           <odeBlockId>block-1778174225483-w4jrjuhkl</odeBlockId>
           <odeIdeviceId>idevice-1778174225482-jv23drtlm</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -189,8 +189,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4i-3a519sp4d</odePageId>
-  <odeParentPageId>page-mpcu1k4g-xprjbz7sv</odeParentPageId>
+  <odePageId>page-mpfr02jt-d5yte2yiq</odePageId>
+  <odeParentPageId>page-mpfr02jr-ka6qeu390</odeParentPageId>
   <pageName>Justificación del proyecto</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -225,7 +225,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4i-3a519sp4d</odePageId>
+      <odePageId>page-mpfr02jt-d5yte2yiq</odePageId>
       <odeBlockId>block-1778174763500-69upgj98z</odeBlockId>
       <blockName>Justificación</blockName>
       <iconName>diary</iconName>
@@ -254,7 +254,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4i-3a519sp4d</odePageId>
+          <odePageId>page-mpfr02jt-d5yte2yiq</odePageId>
           <odeBlockId>block-1778174763500-69upgj98z</odeBlockId>
           <odeIdeviceId>idevice-1778174763498-t7btwvjk5</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -285,7 +285,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4i-7ao8k7fvm</odePageId>
+  <odePageId>page-mpfr02ju-y6dghyzkt</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>La protección de datos</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -321,7 +321,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4i-7ao8k7fvm</odePageId>
+      <odePageId>page-mpfr02ju-y6dghyzkt</odePageId>
       <odeBlockId>block-1778176607431-ozhcybz11</odeBlockId>
       <blockName>Infografía con los datos clave sobre la protección de datos</blockName>
       <iconName>technology</iconName>
@@ -350,7 +350,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4i-7ao8k7fvm</odePageId>
+          <odePageId>page-mpfr02ju-y6dghyzkt</odePageId>
           <odeBlockId>block-1778176607431-ozhcybz11</odeBlockId>
           <odeIdeviceId>idevice-1778176607429-zzjgds8d6</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -387,7 +387,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4j-skm4w71rq</odePageId>
+  <odePageId>page-mpfr02jw-2tqg08fdf</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Desarrollo del proyecto</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -423,7 +423,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4j-skm4w71rq</odePageId>
+      <odePageId>page-mpfr02jw-2tqg08fdf</odePageId>
       <odeBlockId>block-1778436360422-rvcuzrs6t</odeBlockId>
       <blockName>Texto</blockName>
       <iconName>guide</iconName>
@@ -452,7 +452,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4j-skm4w71rq</odePageId>
+          <odePageId>page-mpfr02jw-2tqg08fdf</odePageId>
           <odeBlockId>block-1778436360422-rvcuzrs6t</odeBlockId>
           <odeIdeviceId>idevice-1778436360420-qwv76e5sf</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -479,7 +479,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4j-skm4w71rq</odePageId>
+      <odePageId>page-mpfr02jw-2tqg08fdf</odePageId>
       <odeBlockId>block-1778436396313-9yzedseww</odeBlockId>
       <blockName>Galería de imágenes</blockName>
       <iconName>guide</iconName>
@@ -508,7 +508,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4j-skm4w71rq</odePageId>
+          <odePageId>page-mpfr02jw-2tqg08fdf</odePageId>
           <odeBlockId>block-1778436396313-9yzedseww</odeBlockId>
           <odeIdeviceId>idevice-1778436396312-1h3pvww3d</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -545,8 +545,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4q-7kqamup54</odePageId>
-  <odeParentPageId>page-mpcu1k4j-skm4w71rq</odeParentPageId>
+  <odePageId>page-mpfr02jy-0tksoaeqs</odePageId>
+  <odeParentPageId>page-mpfr02jw-2tqg08fdf</odeParentPageId>
   <pageName>Presentación de la SdA al alumnado: explicación y recursos</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -581,7 +581,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4q-7kqamup54</odePageId>
+      <odePageId>page-mpfr02jy-0tksoaeqs</odePageId>
       <odeBlockId>block-1778178165317-tr6arjh55</odeBlockId>
       <blockName>Estructura a seguir por el alumnado en el proyecto</blockName>
       <iconName>competencies</iconName>
@@ -610,7 +610,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4q-7kqamup54</odePageId>
+          <odePageId>page-mpfr02jy-0tksoaeqs</odePageId>
           <odeBlockId>block-1778178165317-tr6arjh55</odeBlockId>
           <odeIdeviceId>idevice-1778178165317-6ilpa1t42</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -645,7 +645,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4q-7kqamup54</odePageId>
+      <odePageId>page-mpfr02jy-0tksoaeqs</odePageId>
       <odeBlockId>block-1778178484071-7so81llnp</odeBlockId>
       <blockName>Padlet SdA Cisne Negro</blockName>
       <iconName>video</iconName>
@@ -674,7 +674,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4q-7kqamup54</odePageId>
+          <odePageId>page-mpfr02jy-0tksoaeqs</odePageId>
           <odeBlockId>block-1778178484071-7so81llnp</odeBlockId>
           <odeIdeviceId>idevice-1778178484070-i8gj4vbh1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -703,7 +703,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4q-7kqamup54</odePageId>
+      <odePageId>page-mpfr02jy-0tksoaeqs</odePageId>
       <odeBlockId>block-1778178629686-ciaftgz55</odeBlockId>
       <blockName>Symbaloo herramientas y aplicaciones útiles para el proyecto</blockName>
       <iconName>video</iconName>
@@ -732,7 +732,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4q-7kqamup54</odePageId>
+          <odePageId>page-mpfr02jy-0tksoaeqs</odePageId>
           <odeBlockId>block-1778178629686-ciaftgz55</odeBlockId>
           <odeIdeviceId>idevice-1778178629684-805nuwir0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -761,8 +761,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4r-xyh6t8etn</odePageId>
-  <odeParentPageId>page-mpcu1k4j-skm4w71rq</odeParentPageId>
+  <odePageId>page-mpfr02jz-y5w6rsqw6</odePageId>
+  <odeParentPageId>page-mpfr02jw-2tqg08fdf</odeParentPageId>
   <pageName>Realización lectura sobre la teoría del cisne negro </pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -797,7 +797,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4r-xyh6t8etn</odePageId>
+      <odePageId>page-mpfr02jz-y5w6rsqw6</odePageId>
       <odeBlockId>block-1778178970562-5lr00duzz</odeBlockId>
       <blockName>Texto</blockName>
       <iconName>think</iconName>
@@ -826,7 +826,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4r-xyh6t8etn</odePageId>
+          <odePageId>page-mpfr02jz-y5w6rsqw6</odePageId>
           <odeBlockId>block-1778178970562-5lr00duzz</odeBlockId>
           <odeIdeviceId>idevice-1778178970561-wbu4d82s2</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -856,7 +856,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4r-xyh6t8etn</odePageId>
+      <odePageId>page-mpfr02jz-y5w6rsqw6</odePageId>
       <odeBlockId>block-1778324010718-roj7w3bmx</odeBlockId>
       <blockName>Actividad previa sobre el cisne negro</blockName>
       <iconName>activity</iconName>
@@ -885,7 +885,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4r-xyh6t8etn</odePageId>
+          <odePageId>page-mpfr02jz-y5w6rsqw6</odePageId>
           <odeBlockId>block-1778324010718-roj7w3bmx</odeBlockId>
           <odeIdeviceId>idevice-1778324010716-7vqqj375x</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -915,8 +915,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4r-ofsynebmb</odePageId>
-  <odeParentPageId>page-mpcu1k4j-skm4w71rq</odeParentPageId>
+  <odePageId>page-mpfr02k0-7atsij5o1</odePageId>
+  <odeParentPageId>page-mpfr02jw-2tqg08fdf</odeParentPageId>
   <pageName>La búsqueda de información </pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -951,7 +951,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4r-ofsynebmb</odePageId>
+      <odePageId>page-mpfr02k0-7atsij5o1</odePageId>
       <odeBlockId>block-1778318479878-kb28oaz59</odeBlockId>
       <blockName>Texto</blockName>
       <iconName>passport</iconName>
@@ -980,7 +980,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4r-ofsynebmb</odePageId>
+          <odePageId>page-mpfr02k0-7atsij5o1</odePageId>
           <odeBlockId>block-1778318479878-kb28oaz59</odeBlockId>
           <odeIdeviceId>idevice-1778318479877-lhc3slaj7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1013,7 +1013,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4r-ofsynebmb</odePageId>
+      <odePageId>page-mpfr02k0-7atsij5o1</odePageId>
       <odeBlockId>block-1778320885957-zzkiqln6t</odeBlockId>
       <blockName>Tutorial Google Docs</blockName>
       <iconName>video</iconName>
@@ -1042,7 +1042,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4r-ofsynebmb</odePageId>
+          <odePageId>page-mpfr02k0-7atsij5o1</odePageId>
           <odeBlockId>block-1778320885957-zzkiqln6t</odeBlockId>
           <odeIdeviceId>idevice-1778320885956-6q8fg4moo</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1069,7 +1069,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4r-ofsynebmb</odePageId>
+      <odePageId>page-mpfr02k0-7atsij5o1</odePageId>
       <odeBlockId>block-1778320996852-vk0rchusg</odeBlockId>
       <blockName>Tutorial Google Drive</blockName>
       <iconName>video</iconName>
@@ -1098,7 +1098,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4r-ofsynebmb</odePageId>
+          <odePageId>page-mpfr02k0-7atsij5o1</odePageId>
           <odeBlockId>block-1778320996852-vk0rchusg</odeBlockId>
           <odeIdeviceId>idevice-1778320996851-dsany64lv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1125,7 +1125,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4r-ofsynebmb</odePageId>
+      <odePageId>page-mpfr02k0-7atsij5o1</odePageId>
       <odeBlockId>block-1778321526672-59fwghtkh</odeBlockId>
       <blockName>Fuentes recomendadas para su consulta por el docente</blockName>
       <iconName>book</iconName>
@@ -1154,7 +1154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4r-ofsynebmb</odePageId>
+          <odePageId>page-mpfr02k0-7atsij5o1</odePageId>
           <odeBlockId>block-1778321526672-59fwghtkh</odeBlockId>
           <odeIdeviceId>idevice-1778321526671-p8yutix2b</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1187,8 +1187,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4s-rf62w14at</odePageId>
-  <odeParentPageId>page-mpcu1k4j-skm4w71rq</odeParentPageId>
+  <odePageId>page-mpfr02k1-c6253ewjz</odePageId>
+  <odeParentPageId>page-mpfr02jw-2tqg08fdf</odeParentPageId>
   <pageName>Formación de la presentación </pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1223,7 +1223,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4s-rf62w14at</odePageId>
+      <odePageId>page-mpfr02k1-c6253ewjz</odePageId>
       <odeBlockId>block-1778325086655-pv1gkyn6d</odeBlockId>
       <blockName>Presentación de las ideas clave</blockName>
       <iconName>objectives</iconName>
@@ -1252,7 +1252,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4s-rf62w14at</odePageId>
+          <odePageId>page-mpfr02k1-c6253ewjz</odePageId>
           <odeBlockId>block-1778325086655-pv1gkyn6d</odeBlockId>
           <odeIdeviceId>idevice-1778325086654-bsm3tebev</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1280,7 +1280,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4s-rf62w14at</odePageId>
+      <odePageId>page-mpfr02k1-c6253ewjz</odePageId>
       <odeBlockId>block-1778329841332-i0c52c90b</odeBlockId>
       <blockName>Genially índice con apartados clave para la realización de la exposición</blockName>
       <iconName>case</iconName>
@@ -1309,7 +1309,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4s-rf62w14at</odePageId>
+          <odePageId>page-mpfr02k1-c6253ewjz</odePageId>
           <odeBlockId>block-1778329841332-i0c52c90b</odeBlockId>
           <odeIdeviceId>idevice-1778329841331-4exnwsxia</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1336,7 +1336,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4s-rf62w14at</odePageId>
+      <odePageId>page-mpfr02k1-c6253ewjz</odePageId>
       <odeBlockId>block-1778428828201-nod5os9ni</odeBlockId>
       <blockName>Ejemplo de Cmaptools elaborado por el docente sobre el estallido de la Primera Guerra Mundial</blockName>
       <iconName>case</iconName>
@@ -1365,7 +1365,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4s-rf62w14at</odePageId>
+          <odePageId>page-mpfr02k1-c6253ewjz</odePageId>
           <odeBlockId>block-1778428828201-nod5os9ni</odeBlockId>
           <odeIdeviceId>idevice-1778428828199-mz4upgr2p</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1394,8 +1394,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4t-za1rs6mmx</odePageId>
-  <odeParentPageId>page-mpcu1k4j-skm4w71rq</odeParentPageId>
+  <odePageId>page-mpfr02k9-rkh11vpdi</odePageId>
+  <odeParentPageId>page-mpfr02jw-2tqg08fdf</odeParentPageId>
   <pageName>Exposición del proyecto </pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1430,7 +1430,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4t-za1rs6mmx</odePageId>
+      <odePageId>page-mpfr02k9-rkh11vpdi</odePageId>
       <odeBlockId>block-1778429188134-no7tr6d4j</odeBlockId>
       <blockName>de las ideas de proyección principales del proyecto</blockName>
       <iconName>present</iconName>
@@ -1459,7 +1459,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4t-za1rs6mmx</odePageId>
+          <odePageId>page-mpfr02k9-rkh11vpdi</odePageId>
           <odeBlockId>block-1778429188134-no7tr6d4j</odeBlockId>
           <odeIdeviceId>idevice-1778429188132-38pjupt8f</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1488,7 +1488,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4t-za1rs6mmx</odePageId>
+      <odePageId>page-mpfr02k9-rkh11vpdi</odePageId>
       <odeBlockId>block-1778430824552-h5y9gt9gl</odeBlockId>
       <blockName>Kahoot elaborado por el docente como ejemplo para la exposición proyecto SdA</blockName>
       <iconName>play</iconName>
@@ -1517,7 +1517,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4t-za1rs6mmx</odePageId>
+          <odePageId>page-mpfr02k9-rkh11vpdi</odePageId>
           <odeBlockId>block-1778430824552-h5y9gt9gl</odeBlockId>
           <odeIdeviceId>idevice-1778430824550-u0l1h7497</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1546,7 +1546,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4t-za1rs6mmx</odePageId>
+      <odePageId>page-mpfr02k9-rkh11vpdi</odePageId>
       <odeBlockId>block-1778431028031-24x189gzh</odeBlockId>
       <blockName>Wordwall de ejemplo para la exposición proyecto SdA</blockName>
       <iconName>play</iconName>
@@ -1575,7 +1575,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4t-za1rs6mmx</odePageId>
+          <odePageId>page-mpfr02k9-rkh11vpdi</odePageId>
           <odeBlockId>block-1778431028031-24x189gzh</odeBlockId>
           <odeIdeviceId>idevice-1778431028029-c4knva8ue</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1604,8 +1604,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4t-0mbia7mde</odePageId>
-  <odeParentPageId>page-mpcu1k4j-skm4w71rq</odeParentPageId>
+  <odePageId>page-mpfr02ka-z8ijpi0s2</odePageId>
+  <odeParentPageId>page-mpfr02jw-2tqg08fdf</odeParentPageId>
   <pageName>Debate </pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1640,7 +1640,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4t-0mbia7mde</odePageId>
+      <odePageId>page-mpfr02ka-z8ijpi0s2</odePageId>
       <odeBlockId>block-1778432382359-lvo2ch0fd</odeBlockId>
       <blockName>Realización del debate</blockName>
       <iconName>reflection</iconName>
@@ -1669,7 +1669,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4t-0mbia7mde</odePageId>
+          <odePageId>page-mpfr02ka-z8ijpi0s2</odePageId>
           <odeBlockId>block-1778432382359-lvo2ch0fd</odeBlockId>
           <odeIdeviceId>idevice-1778432382356-alqg7jh5p</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1698,7 +1698,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4u-6wtv39zk4</odePageId>
+  <odePageId>page-mpfr02ka-o0bea4b5d</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía didáctica</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -1734,7 +1734,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4u-6wtv39zk4</odePageId>
+      <odePageId>page-mpfr02ka-o0bea4b5d</odePageId>
       <odeBlockId>block-1778435801279-m24axjbte</odeBlockId>
       <blockName>Criterios y relación con las tareas</blockName>
       <iconName>guide</iconName>
@@ -1763,7 +1763,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4u-6wtv39zk4</odePageId>
+          <odePageId>page-mpfr02ka-o0bea4b5d</odePageId>
           <odeBlockId>block-1778435801279-m24axjbte</odeBlockId>
           <odeIdeviceId>idevice-1778435801278-ozvuefrxu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1792,8 +1792,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4u-pbclnx2jd</odePageId>
-  <odeParentPageId>page-mpcu1k4u-6wtv39zk4</odeParentPageId>
+  <odePageId>page-mpfr02kb-214v59974</odePageId>
+  <odeParentPageId>page-mpfr02ka-o0bea4b5d</odeParentPageId>
   <pageName>Competencias de Filosofía e Historia 4ºESO</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1828,7 +1828,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4u-pbclnx2jd</odePageId>
+      <odePageId>page-mpfr02kb-214v59974</odePageId>
       <odeBlockId>block-1778437518172-vss1fdbl1</odeBlockId>
       <blockName>Competencias Filosofía e Historia 4ºESO</blockName>
       <iconName>pieces</iconName>
@@ -1857,7 +1857,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4u-pbclnx2jd</odePageId>
+          <odePageId>page-mpfr02kb-214v59974</odePageId>
           <odeBlockId>block-1778437518172-vss1fdbl1</odeBlockId>
           <odeIdeviceId>idevice-1778437518172-ogfeqvy21</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1900,8 +1900,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4v-sjw8rdesa</odePageId>
-  <odeParentPageId>page-mpcu1k4u-pbclnx2jd</odeParentPageId>
+  <odePageId>page-mpfr02kc-q60gb2pdw</odePageId>
+  <odeParentPageId>page-mpfr02kb-214v59974</odeParentPageId>
   <pageName>Criterios de evaluación y saberes básicos </pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -1936,7 +1936,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4v-sjw8rdesa</odePageId>
+      <odePageId>page-mpfr02kc-q60gb2pdw</odePageId>
       <odeBlockId>block-1779040002149-d7urg5xy3</odeBlockId>
       <blockName>Ración criterios con saberes básicos Historia y Filosofía</blockName>
       <iconName>book</iconName>
@@ -1965,7 +1965,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4v-sjw8rdesa</odePageId>
+          <odePageId>page-mpfr02kc-q60gb2pdw</odePageId>
           <odeBlockId>block-1779040002149-d7urg5xy3</odeBlockId>
           <odeIdeviceId>idevice-1779040002147-g41j0kc4d</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1996,7 +1996,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4v-sjw8rdesa</odePageId>
+      <odePageId>page-mpfr02kc-q60gb2pdw</odePageId>
       <odeBlockId>block-1779040184289-mspjn2fta</odeBlockId>
       <blockName>Relación criterios y saberes básicos Historia 4ºESO</blockName>
       <iconName>letters</iconName>
@@ -2025,7 +2025,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4v-sjw8rdesa</odePageId>
+          <odePageId>page-mpfr02kc-q60gb2pdw</odePageId>
           <odeBlockId>block-1779040184289-mspjn2fta</odeBlockId>
           <odeIdeviceId>idevice-1779040184287-iamuu2ce6</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -2062,8 +2062,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4v-ku3ljfolh</odePageId>
-  <odeParentPageId>page-mpcu1k4u-6wtv39zk4</odeParentPageId>
+  <odePageId>page-mpfr02kd-awhjjb2n6</odePageId>
+  <odeParentPageId>page-mpfr02ka-o0bea4b5d</odeParentPageId>
   <pageName>Relación criterios evaluación con las tareas SdA</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2098,7 +2098,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4v-ku3ljfolh</odePageId>
+      <odePageId>page-mpfr02kd-awhjjb2n6</odePageId>
       <odeBlockId>block-1779041453158-x8q178fok</odeBlockId>
       <blockName>Relación criterios con las tareas de la SdA</blockName>
       <iconName>activity</iconName>
@@ -2127,7 +2127,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4v-ku3ljfolh</odePageId>
+          <odePageId>page-mpfr02kd-awhjjb2n6</odePageId>
           <odeBlockId>block-1779041453158-x8q178fok</odeBlockId>
           <odeIdeviceId>idevice-1779041453157-bdvve1p9h</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2156,7 +2156,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4v-ku3ljfolh</odePageId>
+      <odePageId>page-mpfr02kd-awhjjb2n6</odePageId>
       <odeBlockId>block-1779041799831-0f9lwvcac</odeBlockId>
       <blockName>Relación con los criterios de evaluación con las tareas que conforman la SdA</blockName>
       <iconName>competencies</iconName>
@@ -2185,7 +2185,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4v-ku3ljfolh</odePageId>
+          <odePageId>page-mpfr02kd-awhjjb2n6</odePageId>
           <odeBlockId>block-1779041799831-0f9lwvcac</odeBlockId>
           <odeIdeviceId>idevice-1779041799830-w06dui7ey</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -2222,8 +2222,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4w-zwvcrk12t</odePageId>
-  <odeParentPageId>page-mpcu1k4u-6wtv39zk4</odeParentPageId>
+  <odePageId>page-mpfr02ke-1jlhhzw8l</odePageId>
+  <odeParentPageId>page-mpfr02ka-o0bea4b5d</odeParentPageId>
   <pageName>Instrumentos de evaluación </pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -2258,7 +2258,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4w-zwvcrk12t</odePageId>
+      <odePageId>page-mpfr02ke-1jlhhzw8l</odePageId>
       <odeBlockId>block-1779042177303-bnrcqzouq</odeBlockId>
       <blockName>Instrumentos de evaluación SdA</blockName>
       <iconName>activity</iconName>
@@ -2287,7 +2287,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4w-zwvcrk12t</odePageId>
+          <odePageId>page-mpfr02ke-1jlhhzw8l</odePageId>
           <odeBlockId>block-1779042177303-bnrcqzouq</odeBlockId>
           <odeIdeviceId>idevice-1779042177303-c1kx6kb8a</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2317,7 +2317,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4w-zwvcrk12t</odePageId>
+      <odePageId>page-mpfr02ke-1jlhhzw8l</odePageId>
       <odeBlockId>block-1779042633398-gqrfito1j</odeBlockId>
       <blockName>Rúbricas de evaluación exposición SdA</blockName>
       <iconName>observe</iconName>
@@ -2346,7 +2346,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4w-zwvcrk12t</odePageId>
+          <odePageId>page-mpfr02ke-1jlhhzw8l</odePageId>
           <odeBlockId>block-1779042633398-gqrfito1j</odeBlockId>
           <odeIdeviceId>idevice-1779042633397-qt6cfl925</odeIdeviceId>
           <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
@@ -2383,7 +2383,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mpcu1k4w-z8dcp8ffc</odePageId>
+  <odePageId>page-mpfr02kf-am820jp2e</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -2419,11 +2419,11 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mpcu1k4w-z8dcp8ffc</odePageId>
+      <odePageId>page-mpfr02kf-am820jp2e</odePageId>
       <odeBlockId>block-1779044071645-xg2exposo</odeBlockId>
       <blockName>Texto</blockName>
       <iconName>geography</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -2448,7 +2448,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4w-z8dcp8ffc</odePageId>
+          <odePageId>page-mpfr02kf-am820jp2e</odePageId>
           <odeBlockId>block-1779044071645-xg2exposo</odeBlockId>
           <odeIdeviceId>idevice-1779044071644-wf84kwvck</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -2475,10 +2475,10 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mpcu1k4w-z8dcp8ffc</odePageId>
-      <odeBlockId>block-1779044212534-0jroq4ez3</odeBlockId>
-      <blockName>Texto</blockName>
-      <iconName>history</iconName>
+      <odePageId>page-mpfr02kf-am820jp2e</odePageId>
+      <odeBlockId>block-1779383843377-p0x4vmn7c</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>think</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -2504,32 +2504,34 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mpcu1k4w-z8dcp8ffc</odePageId>
-          <odeBlockId>block-1779044212534-0jroq4ez3</odeBlockId>
-          <odeIdeviceId>idevice-1779044212533-n6cxx1k57</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Autor: Luis Pardo Vicente</span></span></p>
-<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Descripción del proyecto: Situación de aprendizaje en las materias de Filosofía e Historia de 4ºESO que tienen como objetivo explicar desde un punto de vista filosófico e identificar sucesos históricos que cumplen con las pautas teóricas de la teoría del cisne negro.</span></span></p>
-<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Licencia de uso SdA Cisne Negro © 2026 por Luis Pardo Vicente está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional    </span></span><img src="{{context_path}}/content/resources/CC_BY-NC-SA.svg.png" title="CC BY NC SA" width="86" height="30" alt="licencia Creative Commons" /></p>
-<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;" title="Situación de aprendizaje Cisne Negro Luis Pardo.elpx [elpx - 15525978 B]">Puede descargar el archivo de este proyecto en el siguiente enlace <a href="{{context_path}}/content/resources/Situación de aprendizaje Cisne Negro Luis Pardo.elpx" title="Situación de aprendizaje Cisne Negro Luis Pardo.elpx" target="_blank" rel="noopener">Proyecto final Luis Pardo Vicente</a></span><span class="exe-link-data file-size">(elpx - 15525978 <abbr title="Bytes">B</abbr>)</span></span></p>
-<p><br /></p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779044212533-n6cxx1k57","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Autor: Luis Pardo Vicente</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Descripción del proyecto: Situación de aprendizaje en las materias de Filosofía e Historia de 4ºESO que tienen como objetivo explicar desde un punto de vista filosófico e identificar sucesos históricos que cumplen con las pautas teóricas de la teoría del cisne negro.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Licencia de uso SdA Cisne Negro © 2026 por Luis Pardo Vicente está bajo licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional    </span></span><img src=\"{{context_path}}/content/resources/CC_BY-NC-SA.svg.png\" title=\"CC BY NC SA\" width=\"86\" height=\"30\" alt=\"licencia Creative Commons\" /></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\" title=\"Situación de aprendizaje Cisne Negro Luis Pardo.elpx [elpx - 15525978 B]\">Puede descargar el archivo de este proyecto en el siguiente enlace <a href=\"{{context_path}}/content/resources/Situación de aprendizaje Cisne Negro Luis Pardo.elpx\" title=\"Situación de aprendizaje Cisne Negro Luis Pardo.elpx\" target=\"_blank\" rel=\"noopener\">Proyecto final Luis Pardo Vicente</a></span><span class=\"exe-link-data file-size\">(elpx - 15525978 <abbr title=\"Bytes\">B</abbr>)</span></span></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odePageId>page-mpfr02kf-am820jp2e</odePageId>
+          <odeBlockId>block-1779383843377-p0x4vmn7c</odeBlockId>
+          <odeIdeviceId>idevice-1779383843376-iupikpv5c</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Situación de Aprendizaje Filosofía e Historia 4ºESO </span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Este proyecto hace referencia a una situación de aprendizaje llevada a cabo en las materias de Filosofía e Historia con el objetivo de combinar las destrezas de ambas materias en el estudio de los fenómenos históricos más determinantes de la Historia de la Humanidad, profundizando en su conocimiento y siendo interpretados desde una perspectiva filosófica. </span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Luis Pardo Vicente </span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#10751c;color:#ffffff;">Descargar el archivo .elp</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
-            <odeComponentsProperty>
-              <key>visibility</key>
-              <value>true</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>teacherOnly</key>
-              <value>false</value>
-            </odeComponentsProperty>
-            <odeComponentsProperty>
-              <key>cssClass</key>
-              <value></value>
-            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
